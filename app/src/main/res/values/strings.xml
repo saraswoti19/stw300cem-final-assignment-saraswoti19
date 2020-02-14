@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">StudentManagementSystem</string>
+    <string name="app_name">SIES attendance</string>
+    <string-array name="my_sensors">
+        <item>All</item>
+        <item>Gyroscope</item>
+        <item>Accelerometer</item>
+        <item>Proximity</item>
+        <item>Light</item>
+        <item>Pedometer</item>
+        <item>Temperature</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
 </resources>
