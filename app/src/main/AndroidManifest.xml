@@ -35,7 +35,6 @@
             android:name=".MapsActivity"
             android:label="@string/title_activity_maps"></activity>
         <activity android:name=".Test" />
-        <activity android:name=".Sensor" />
         <activity android:name=".AttendanceActivity" />
         <activity android:name=".AddStudentActivity" />
         <activity android:name=".SubjectList" />
